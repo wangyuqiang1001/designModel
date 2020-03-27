@@ -1,8 +1,5 @@
 package com.wang.demo.test;
 
-import org.springframework.boot.autoconfigure.web.servlet.DispatcherServletRegistrationBean;
-import org.springframework.web.servlet.DispatcherServlet;
-
 public class WidthSon extends Width {
     @Override
     public synchronized void doSomething() {
